@@ -1,0 +1,11 @@
+{
+  "start": "Вітаю! Оберіть команду:",
+  "main_menu": "Оберіть команду:",
+  "return": "Назад",
+  "done": "Готово",
+  
+  "answer_student": "Густаво Фрінг",
+  "answer_it_tech": "ІТ-технології: Front-end, Back-end, Web-технології",
+  "answer_contacts": "тел. +38000000000\nemail: yo@gmail.com",
+  "answer_chatgpt": "Напишіть Ваш запит до ChatGPT:"
+}
